@@ -2,7 +2,7 @@
 import React from 'react'
 import { useEffect,useState } from 'react'
 import axios from 'axios';
-import Product from '../components/productcard';
+import Product from '../components/productCard.jsx';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
